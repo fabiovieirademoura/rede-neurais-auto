@@ -45,7 +45,7 @@ val Loss: 0.0955 Acc: 0.9750
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 Exemplo de adição de imagem:
-![Descrição](evidencia.png)
+![Descrição](https://github.com/fabiovieirademoura/rede-neurais-auto/blob/main/evidencia.png?raw=true)
 
 ## Roboflow
 
